@@ -1,0 +1,19 @@
+#result{
+    background-color: black;
+    width:210px;
+    color:white;
+    text-align: right;
+}
+
+button{
+    width:50px;
+
+}
+
+#ac{
+    width:105px;
+}
+
+#equal{
+    width:105px;
+}
